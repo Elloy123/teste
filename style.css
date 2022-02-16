@@ -30,11 +30,12 @@ footer{
     margin: 0;
     padding: 0;
 }
-
+#rodape{
+    position: relative;
+}
 
 .container-fluid{
-    position:absolute;
-    
+    position: absolute;
     color: white;
     bottom: 0;
     width: 100%;
@@ -43,3 +44,4 @@ footer{
 
 
 }
+
